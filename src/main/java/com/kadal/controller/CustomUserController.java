@@ -11,8 +11,6 @@ import org.springframework.web.bind.annotation.*;
 
 import static com.kadal.enums.ResponseEnum.*;
 
-;
-
 @RestController
 @RequestMapping("users")
 @AllArgsConstructor
